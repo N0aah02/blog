@@ -2,7 +2,9 @@
 title: Discord Markdown
 date: 2020-11-08T15:16:32.600Z
 published: true
-tags: []
+tags:
+  - discord
+  - markdown
 cover_image: ../../static/images/uploads/component-4-.png
 description: Schau dir den ganzen Discord Markdown an
 ---
