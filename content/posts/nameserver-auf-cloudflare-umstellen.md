@@ -14,8 +14,6 @@ description: Stelle deine Nameserver auf Cloudflare um.
 
 Alternativ einen beliebigen Ordner öffnen und "Systemsteuerung\Netzwerk und Internet\Netzwerk- und Freigabecenter" in die leiste oben eingeben und Enter drücken.
 
-
-
 # 2. Auf das aktive Netzwerk klicken
 
 ![](../../static/images/uploads/2020-11-12_19-17-03.png)
@@ -50,18 +48,22 @@ Falls da das folgende steht wurden die DNS Server übernommen und du kannst alle
 
 ![](../../static/images/uploads/2020-11-12_19-28-30.png)
 
-
-
 # Alternative nameserver:
 
 **Standard Cloudflare Nameserver:**
+
 1.1.1.1
+
 1.0.0.1
 
 **Malware blockieren:**
+
 1.1.1.2
+
 1.0.0.2
 
 **Malware und erwachsenen Content blockieren:**
-Primary DNS: 1.1.1.3
-Secondary DNS: 1.0.0.3
+
+1.1.1.3
+
+1.0.0.3
