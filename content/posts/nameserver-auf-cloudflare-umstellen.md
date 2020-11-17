@@ -67,3 +67,9 @@ Falls da das folgende steht wurden die DNS Server übernommen und du kannst alle
 1.1.1.3
 
 1.0.0.3
+
+**Google Nameserver:**
+
+8.8.8.8
+
+8.8.4.4
