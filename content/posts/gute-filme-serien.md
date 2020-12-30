@@ -13,7 +13,6 @@ description: Eine Liste an Filmen / Serien
 * Ready Player One
 * Interstellar
 * Last Samurai
-* Mulan (2020)
 * Soul (2020)
 * Nice Guys
 * Inception
