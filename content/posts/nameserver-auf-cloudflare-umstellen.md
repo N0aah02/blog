@@ -10,7 +10,7 @@ description: Stelle deine Nameserver auf Cloudflare um.
 ---
 # 1. Systemsteuerung
 
-Öffne die Systemsteuerung und klicke auf "Netzwerk und Internet" und anschliessend auf "Netzwerk- und Freugabecenter"
+Öffne die Systemsteuerung und klicke auf "Netzwerk und Internet" und anschliessend auf "Netzwerk- und Freigabecenter"
 
 Alternativ einen beliebigen Ordner öffnen und "Systemsteuerung\Netzwerk und Internet\Netzwerk- und Freigabecenter" in die leiste oben eingeben und Enter drücken.
 
