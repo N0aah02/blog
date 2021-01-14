@@ -26,6 +26,7 @@ description: Eine Liste an Filmen / Serien
 * The Blacklist
 * Marvel, Agents of S.H.I.E.L.D
 * Timeless
+* Lupin
 * Gravity Falls
 * NCIS La
 * Limitless
