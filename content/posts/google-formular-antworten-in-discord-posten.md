@@ -52,6 +52,8 @@ Klicke unten rechts auf "Trigger hinzufügen"
 
 Wähle unter "Ereignistyp auswählen" die option "Bei Formularübermittlung" und klicke anschliessend auf Speichern
 
+Wähle anschliessend deinen google account aus
+
 ![](../../static/images/uploads/2021-02-06_11-32-15.png)
 
 Klicke auf "Erweiterte Optionen" und anschliessend auf "Projekt öffnen"
