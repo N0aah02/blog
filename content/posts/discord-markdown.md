@@ -137,6 +137,5 @@ xml
 ## Source
 
 [Hammer and Chisel](https://support.discordapp.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-)\
-[Discord Highlight.js](https://discord.gg/SkZTwPk)
-
-<!--EndFragment-->
+[Discord Highlight.js](https://discord.gg/SkZTwPk)\
+[Markdown](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51)
