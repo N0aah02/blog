@@ -12,8 +12,6 @@ description: Sende deine Formularantworten in deinen eigenen Discord
 
 Erstelle ein Formular unter <http://forms.new/> und erstelle deine Fragen
 
-
-
 # 2. Erstelle ein Skript
 
 ![](../../static/images/uploads/2021-02-06_11-06-20.png)
@@ -63,3 +61,9 @@ Auf dem sich öffnenden Fenster auf "Erlauben" klicken
 # 6. Testen
 
 Sende das Formular ab und schau, ob eine Antwort in Discord ankommt
+
+
+
+
+
+###### [source](https://github.com/Iku/Google-Forms-to-Discord)
