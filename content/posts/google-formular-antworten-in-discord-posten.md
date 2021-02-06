@@ -62,8 +62,4 @@ Auf dem sich öffnenden Fenster auf "Erlauben" klicken
 
 Sende das Formular ab und schau, ob eine Antwort in Discord ankommt
 
-
-
-
-
 ###### [source](https://github.com/Iku/Google-Forms-to-Discord)
