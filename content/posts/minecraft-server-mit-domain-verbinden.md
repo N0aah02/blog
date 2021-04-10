@@ -25,7 +25,7 @@ Falls du nur eine subdomain hast z.b. pvpserver.minecraftserver.com suche dir di
 
 # 3. DNS Einträge erstellen
 
-Erstelle dir einen **A Eintrag** mit den folgenden werten:
+## Erstelle dir einen **A Eintrag** mit den folgenden werten:
 
 Name: mc1
 
@@ -33,7 +33,9 @@ TTL: 3600
 
 Value / Wert: **SERVER IP** (ohne port)
 
-erstelle dir anschliessend einen **SRV Eintrag** mit den folgenden werten:
+
+
+## Erstelle dir anschliessend einen **SRV Eintrag** mit den folgenden werten:
 
 Service: minecraft
 
