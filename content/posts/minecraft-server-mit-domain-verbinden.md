@@ -55,4 +55,4 @@ Target / Ziel: **WERT** ( benutze den **Namen**, welchen du beim **A Eintrag** b
 
 # 4. Warten
 
-Jenachdem bei wem du die Einträge bearbeitet hast kann es bis zu 24 Stunden dauern, bis die Einträge gültig werden, überprüfe desshalb nochmal ob alle Einträge auch wirklich stimmen.
+Jenachdem bei wem du die Einträge bearbeitet hast kann es bis zu 24 Stunden dauern, bis die Einträge gültig werden. Überprüfe desshalb nochmal ob alle Einträge auch wirklich stimmen.
