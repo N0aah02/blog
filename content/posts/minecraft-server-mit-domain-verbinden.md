@@ -47,7 +47,7 @@ TLL: 3600
 
 Priority / Priorität: 1
 
-Weight / Gewicht: 1
+Weight / Gewicht: 5
 
 Port: **SERVER PORT**
 
