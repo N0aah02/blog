@@ -33,8 +33,6 @@ TTL: 3600
 
 Value / Wert: **SERVER IP** (ohne port)
 
-
-
 ## Erstelle dir anschliessend einen **SRV Eintrag** mit den folgenden werten:
 
 Service: minecraft
@@ -56,3 +54,9 @@ Target / Ziel: **WERT** ( benutze den **Namen**, welchen du beim **A Eintrag** b
 # 4. Warten
 
 Jenachdem bei wem du die Einträge bearbeitet hast kann es bis zu 24 Stunden dauern, bis die Einträge gültig werden. Überprüfe desshalb nochmal ob alle Einträge auch wirklich stimmen.
+
+
+
+
+
+**Werbung**: Kaufe dir billige Minecraft Server bei [Dashflo](https://fa97.de/ref/dashflo)
