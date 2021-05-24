@@ -42,5 +42,5 @@ description: Erstelle dir einen Kostenlosen Minecraft Server auf deinem Windows 
 
 > TIPP:\
 > Falls du einen Server von deinem PC aus betreiben willst musst du in den server.properties Datei deines Servers den Port der da eingetragen ist für den "ngrok tcp DEIN_PORT" command verwenden
-
-<!--EndFragment-->
+>
+> Alternative: <https://theboroer.github.io/localtunnel-www/>
