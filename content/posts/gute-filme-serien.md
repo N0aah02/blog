@@ -12,13 +12,13 @@ description: Eine Liste an Filmen / Serien
 
 * Ready Player One
 * Interstellar
+* I Want to Eat Your Pancreas
 * Last Samurai
 * The Greatest Showman
 * Soul (2020)
 * Inception
 * Matrix
 * Kingsman 1
-* Christmas Chronicles
 * The Truman Show
 * Coming to america (1 & 2)
 
